@@ -18,14 +18,14 @@ a {
 }
 
 @font-face {
-  font-family: "SF Pro Display-Bold";
-  src: url("https://anima-uploads.s3.amazonaws.com/projects/634e6b4b723b28ff69092d1b/fonts/fontsfree-net-sfprodisplay-bold.ttf")
+  font-family: "SF Pro Display-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/62e5bd2f729e81c0f2cb0ddb/fonts/sf-pro-display-regular.ttf")
     format("truetype");
 }
 
 @font-face {
-  font-family: "SF Pro Display-Regular";
-  src: url("https://anima-uploads.s3.amazonaws.com/projects/62e5bd2f729e81c0f2cb0ddb/fonts/sf-pro-display-regular.ttf")
+  font-family: "SF Pro Display-Bold";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/634e6b4b723b28ff69092d1b/fonts/fontsfree-net-sfprodisplay-bold.ttf")
     format("truetype");
 }
 
