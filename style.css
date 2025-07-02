@@ -2922,3 +2922,10 @@ a:visited {
 #opening{
   scroll-margin-top: 300px;
 }
+
+.nav-logo{
+  width: 240px;
+  margin-left: 110px;
+  margin-top: 17px;
+  margin-bottom: 10px;
+}
